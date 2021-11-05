@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+
+*.user
+.DS_Store
+.vscode/
+.idea/
+*/*/Properties/
+
+*/*/*/launchSettings.json
+*/*/launchSettings.json
+*/*/package-lock.json
